@@ -37,7 +37,7 @@ struct NavigationBarWithButton: ViewModifier {
             .onAppear {
                 let appearance = UINavigationBarAppearance()
                 appearance.configureWithTransparentBackground()
-                appearance.backgroundColor = UIColor(white: 1, alpha: 0.5)
+                appearance.backgroundColor = UIColor(white: 1, alpha: 1)
                 UINavigationBar.appearance().standardAppearance = appearance
                 UINavigationBar.appearance().compactAppearance = appearance
                 UINavigationBar.appearance().scrollEdgeAppearance = appearance
