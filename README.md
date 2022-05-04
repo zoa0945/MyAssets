@@ -12,3 +12,4 @@ SwiftUI로 각각의 View를 ContentView의 4개의 탭 중 자산 탭 화면 �
 * SwiftUI
 
 ## Screenshots
+<img width="216" alt="스크린샷 2022-05-04 오후 8 35 31" src="https://user-images.githubusercontent.com/51810980/166673984-a806f321-f201-40db-853e-afb90315d734.png"><img width="216" alt="스크린샷 2022-05-04 오후 8 35 39" src="https://user-images.githubusercontent.com/51810980/166674003-58f8ffcb-b4ea-4d97-ba27-704a9d0c24b8.png"><img width="216" alt="스크린샷 2022-05-04 오후 8 35 54" src="https://user-images.githubusercontent.com/51810980/166674020-882659ce-bac9-4bca-b720-e088e4c760bd.png">
